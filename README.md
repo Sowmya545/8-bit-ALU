@@ -1,21 +1,31 @@
 # 8-bit-ALU
 
-Operations:
--Addition.
--Substraction.
--Incremnet.
--Decrement.
--Bitwise And.
--Bitwise Or.
--Bitwise Xor.
--Not.
 
-Concept used:
--Combinational Logic.
--Case statement.
--Carry handling.
--Verilog HDL.
+# Description
+This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL.
 
-Files:
--design.v
--testbench.v
+# Features
+- Addition
+- Subtraction
+- Increment
+- Decrement
+- AND
+- OR
+- XOR
+- NOT
+
+# Concepts Used
+- Combinational Logic
+- Case Statement
+- Carry Handling
+- Verilog HDL
+
+ Files
+- design.v
+- testbench.v
+
+## How to Run
+Run both files in any Verilog simulator like EDA Playground.
+
+## Output
+ALU performs arithmetic and logical operations based on select line.
